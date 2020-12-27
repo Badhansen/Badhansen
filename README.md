@@ -1,10 +1,5 @@
 ### Hi there 👋
-
-I have completed my B.S.c degree from the Department of CSE, Jashore University of Science and Technology.
-
-Competitive Programming enthusiast. Eager to learn new things and technologies.
-
-I wanted to build my career as a Software Engineer and I would like to be a part of a passionate software engineering team. 
+I am a Problem Solver! 
 <!--
 **Badhansen/Badhansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
