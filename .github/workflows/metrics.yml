@@ -70,18 +70,6 @@ jobs:
           plugin_repositories_pinned: 2
           plugin_repositories_random: 2
           plugin_repositories_starred: 2
-          plugin_skyline: yes
-          plugin_skyline_compatibility: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_settings: {
-  "url": "https://skyline.github.com/${login}/${year}",
-  "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
-  "wait": 1,
-  "hide": "button, footer, a"
-}
-
-          plugin_skyline_year: 2022
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 2
           plugin_stackoverflow_lines: 4
