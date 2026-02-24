@@ -11,13 +11,17 @@
 <br/>
 
 <!-- SOCIAL BADGES - WARM STYLE -->
+
 [![GitHub followers](https://img.shields.io/github/followers/Badhansen?logo=GitHub&style=for-the-badge&color=FF6B35&labelColor=2E4057&logoColor=white)](https://github.com/Badhansen)
 [![GitHub Stars](https://img.shields.io/github/stars/Badhansen?logo=github&style=for-the-badge&color=F7C59F&labelColor=2E4057&logoColor=white)](https://github.com/Badhansen)
-[![Profile Views](https://komarev.com/ghpvc/?username=Badhansen&style=for-the-badge&color=FF6B35&label=VISITORS)](https://github.com/Badhansen)
+
+<!-- Visitor Counter -->
+
+![Visitor Count](https://en7dw0fovvdty4c.m.pipedream.net)
 
 <br/>
 
-### *"Building technology that makes a difference, one line at a time."*
+### _"Building technology that makes a difference, one line at a time."_
 
 </div>
 
@@ -34,6 +38,7 @@ Hey there! I'm **Badhan Sen**, a Software Engineer and Full Stack Developer base
 I believe great software isn't just about code—it's about creating solutions that genuinely help people. Whether it's building intelligent AI systems, crafting research platforms, or architecting scalable infrastructure, I bring the same dedication: **get it right, make it reliable, and ensure it lasts.**
 
 **What drives me:**
+
 - 🎯 Turning complex problems into elegant, working solutions
 - 🤝 Collaborating with teams to ship impactful products
 - 📚 Continuous learning and sharing knowledge with others
@@ -50,9 +55,9 @@ I believe great software isn't just about code—it's about creating solutions t
 
 <br/>
 
-<a href="https://github.com/Badhansen"><img src="https://img.shields.io/badge/-Badhansen-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/badhan/"><img src="https://img.shields.io/badge/-badhan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Badhansen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/badhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:badhan.cse@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </td>
 </tr>
@@ -64,14 +69,14 @@ I believe great software isn't just about code—it's about creating solutions t
 
 <div align="center">
 
-| Category | Technologies |
-|:--------:|:-------------|
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,cs,typescript,cpp&theme=light" height="28" /> |
-| **AI/ML** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=light" height="28" /> |
+|        Category        | Technologies                                                                                                    |
+| :--------------------: | :-------------------------------------------------------------------------------------------------------------- |
+|     **Languages**      | <img src="https://skillicons.dev/icons?i=python,cs,typescript,cpp&theme=light" height="28" />                   |
+|       **AI/ML**        | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=light" height="28" />                 |
 | **Frontend & Backend** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,django,graphql&theme=light" height="28" /> |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,github&theme=light" height="28" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=light" height="28" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma&theme=light" height="28" /> |
+|   **Cloud & DevOps**   | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,github&theme=light" height="28" /> |
+|     **Databases**      | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=light" height="28" />               |
+|       **Tools**        | <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma&theme=light" height="28" />                     |
 
 </div>
 
@@ -81,12 +86,12 @@ I believe great software isn't just about code—it's about creating solutions t
 
 <div align="center">
 
-|  | Focus Area | What This Means |
-|:--:|:--|:--|
-| 🧠 | **AI Systems** | Building production-ready ML pipelines and LLM applications that actually work |
-| 🔬 | **Research Platforms** | Creating tools that help researchers move faster and discover more |
-| 🛠️ | **Developer Experience** | Making tools that developers genuinely enjoy using |
-| 🏗️ | **Reliable Infrastructure** | Designing systems you can count on, even at scale |
+|     | Focus Area                  | What This Means                                                                |
+| :-: | :-------------------------- | :----------------------------------------------------------------------------- |
+| 🧠  | **AI Systems**              | Building production-ready ML pipelines and LLM applications that actually work |
+| 🔬  | **Research Platforms**      | Creating tools that help researchers move faster and discover more             |
+| 🛠️  | **Developer Experience**    | Making tools that developers genuinely enjoy using                             |
+| 🏗️  | **Reliable Infrastructure** | Designing systems you can count on, even at scale                              |
 
 </div>
 
@@ -96,12 +101,12 @@ I believe great software isn't just about code—it's about creating solutions t
 
 <div align="center">
 
-| Project | Description | DeepWiki |
-|:--------|:------------|:--------:|
-| **[notion-mcp](https://github.com/Badhansen/notion-mcp)** | MCP server integrating with Notion API for personal todo management | [![DeepWiki](https://img.shields.io/badge/DeepWiki-FF6B35?style=flat-square&logo=bookstack&logoColor=white)](https://deepwiki.com/Badhansen/notion-mcp) |
-| **[LeetCode-Solutions](https://github.com/Badhansen/LeetCode-Solutions)** | Curated collection of LeetCode solutions for interview preparation | [![DeepWiki](https://img.shields.io/badge/DeepWiki-FF6B35?style=flat-square&logo=bookstack&logoColor=white)](https://deepwiki.com/Badhansen/LeetCode-Solutions) |
-| **[transcribe](https://github.com/Badhansen/transcribe)** | Audio extraction and transcription tool using OpenAI Whisper | [![DeepWiki](https://img.shields.io/badge/DeepWiki-FF6B35?style=flat-square&logo=bookstack&logoColor=white)](https://deepwiki.com/Badhansen/transcribe) |
-| **[InterviewCodeBook](https://github.com/Badhansen/InterviewCodeBook)** | Comprehensive interview preparation resources | [![DeepWiki](https://img.shields.io/badge/DeepWiki-FF6B35?style=flat-square&logo=bookstack&logoColor=white)](https://deepwiki.com/Badhansen/InterviewCodeBook) |
+| Project                                                                   | Description                                                         |                                                                            DeepWiki                                                                             |
+| :------------------------------------------------------------------------ | :------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **[notion-mcp](https://github.com/Badhansen/notion-mcp)**                 | MCP server integrating with Notion API for personal todo management |     [![DeepWiki](https://img.shields.io/badge/DeepWiki-FF6B35?style=flat-square&logo=bookstack&logoColor=white)](https://deepwiki.com/Badhansen/notion-mcp)     |
+| **[LeetCode-Solutions](https://github.com/Badhansen/LeetCode-Solutions)** | Curated collection of LeetCode solutions for interview preparation  | [![DeepWiki](https://img.shields.io/badge/DeepWiki-FF6B35?style=flat-square&logo=bookstack&logoColor=white)](https://deepwiki.com/Badhansen/LeetCode-Solutions) |
+| **[transcribe](https://github.com/Badhansen/transcribe)**                 | Audio extraction and transcription tool using OpenAI Whisper        |     [![DeepWiki](https://img.shields.io/badge/DeepWiki-FF6B35?style=flat-square&logo=bookstack&logoColor=white)](https://deepwiki.com/Badhansen/transcribe)     |
+| **[InterviewCodeBook](https://github.com/Badhansen/InterviewCodeBook)**   | Comprehensive interview preparation resources                       | [![DeepWiki](https://img.shields.io/badge/DeepWiki-FF6B35?style=flat-square&logo=bookstack&logoColor=white)](https://deepwiki.com/Badhansen/InterviewCodeBook)  |
 
 <br/>
 
@@ -121,6 +126,7 @@ I believe great software isn't just about code—it's about creating solutions t
 <br/>
 
 ### 🤝 Collaborative
+
 I believe the best solutions come from working together. I value clear communication and building strong relationships with the people I work with.
 
 </td>
@@ -128,6 +134,7 @@ I believe the best solutions come from working together. I value clear communica
 <br/>
 
 ### 🎯 Dependable
+
 When I commit to something, I deliver. Reliability isn't just a trait—it's a promise I make to every project and every team I join.
 
 </td>
@@ -135,6 +142,7 @@ When I commit to something, I deliver. Reliability isn't just a trait—it's a p
 <br/>
 
 ### 💡 Thoughtful
+
 I take time to understand problems deeply before jumping to solutions. Good engineering is about making the right decisions, not just fast ones.
 
 </td>
@@ -153,16 +161,16 @@ I'm passionate about technology that creates **real, measurable impact**. My wor
 
 <br/>
 
-| Area | Impact |
-|:----:|:-------|
-| 🎓 **Knowledge Transfer** | Bridging academic research with industry applications |
-| 🤖 **AI for Good** | Building intelligent systems that augment human capabilities |
-| 🌱 **Sustainable Tech** | Focusing on solutions with long-term positive outcomes |
-| 🔧 **Open Source** | Contributing to the tools and communities we all depend on |
+|           Area            | Impact                                                       |
+| :-----------------------: | :----------------------------------------------------------- |
+| 🎓 **Knowledge Transfer** | Bridging academic research with industry applications        |
+|    🤖 **AI for Good**     | Building intelligent systems that augment human capabilities |
+|  🌱 **Sustainable Tech**  | Focusing on solutions with long-term positive outcomes       |
+|    🔧 **Open Source**     | Contributing to the tools and communities we all depend on   |
 
 <br/>
 
-> *"The measure of a good engineer isn't just what they build—it's the positive change they create."*
+> _"The measure of a good engineer isn't just what they build—it's the positive change they create."_
 
 </div>
 
