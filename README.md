@@ -110,60 +110,18 @@ I believe great software isn't just about code—it's about creating solutions t
 
 ---
 
-## 📊 GitHub Journey
-
-<div align="center">
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Badhansen&theme=flat&no-frame=true&no-bg=true&column=7&title_color=FF6B35&icon_color=FF6B35&text_color=2E4057" alt="GitHub Trophies" />
-
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Badhansen&show_icons=true&hide_border=true&bg_color=EFEFD0&title_color=2E4057&icon_color=FF6B35&text_color=2E4057&ring_color=FF6B35&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Badhansen&hide_border=true&background=EFEFD0&ring=FF6B35&fire=FF6B35&currStreakLabel=2E4057&sideLabels=2E4057&currStreakNum=2E4057&sideNums=2E4057&dates=2E4057" alt="GitHub Streak"/>
-
-<br/>
-
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badhansen&layout=compact&hide_border=true&bg_color=EFEFD0&title_color=2E4057&text_color=2E4057&langs_count=10" alt="Top Languages"/>
-
-</div>
-
----
-
 ## ✨ Featured Work
 
 <div align="center">
 
-<!-- Top Projects -->
-<a href="https://github.com/Badhansen/notion-mcp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Badhansen&repo=notion-mcp&hide_border=true&bg_color=EFEFD0&title_color=2E4057&icon_color=FF6B35&text_color=2E4057" />
-</a>
-<a href="https://github.com/Badhansen/LeetCode-Solutions">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Badhansen&repo=LeetCode-Solutions&hide_border=true&bg_color=EFEFD0&title_color=2E4057&icon_color=FF6B35&text_color=2E4057" />
-</a>
+| Project | Description | DeepWiki |
+|:--------|:------------|:--------:|
+| **[notion-mcp](https://github.com/Badhansen/notion-mcp)** | MCP server integrating with Notion API for personal todo management | [![DeepWiki](https://img.shields.io/badge/DeepWiki-FF6B35?style=flat-square&logo=bookstack&logoColor=white)](https://deepwiki.com/Badhansen/notion-mcp) |
+| **[LeetCode-Solutions](https://github.com/Badhansen/LeetCode-Solutions)** | Curated collection of LeetCode solutions for interview preparation | [![DeepWiki](https://img.shields.io/badge/DeepWiki-FF6B35?style=flat-square&logo=bookstack&logoColor=white)](https://deepwiki.com/Badhansen/LeetCode-Solutions) |
+| **[transcribe](https://github.com/Badhansen/transcribe)** | Audio extraction and transcription tool using OpenAI Whisper | [![DeepWiki](https://img.shields.io/badge/DeepWiki-FF6B35?style=flat-square&logo=bookstack&logoColor=white)](https://deepwiki.com/Badhansen/transcribe) |
+| **[InterviewCodeBook](https://github.com/Badhansen/InterviewCodeBook)** | Comprehensive interview preparation resources | [![DeepWiki](https://img.shields.io/badge/DeepWiki-FF6B35?style=flat-square&logo=bookstack&logoColor=white)](https://deepwiki.com/Badhansen/InterviewCodeBook) |
 
-<a href="https://github.com/Badhansen/transcribe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Badhansen&repo=transcribe&hide_border=true&bg_color=EFEFD0&title_color=2E4057&icon_color=FF6B35&text_color=2E4057" />
-</a>
-<a href="https://github.com/Badhansen/skills">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Badhansen&repo=skills&hide_border=true&bg_color=EFEFD0&title_color=2E4057&icon_color=FF6B35&text_color=2E4057" />
-</a>
-
-<a href="https://github.com/Badhansen/promptly">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Badhansen&repo=promptly&hide_border=true&bg_color=EFEFD0&title_color=2E4057&icon_color=FF6B35&text_color=2E4057" />
-</a>
-<a href="https://github.com/Badhansen/url-shortener">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Badhansen&repo=url-shortener&hide_border=true&bg_color=EFEFD0&title_color=2E4057&icon_color=FF6B35&text_color=2E4057" />
-</a>
-
-<a href="https://github.com/Badhansen/InterviewCodeBook">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Badhansen&repo=InterviewCodeBook&hide_border=true&bg_color=EFEFD0&title_color=2E4057&icon_color=FF6B35&text_color=2E4057" />
-</a>
-<a href="https://github.com/Badhansen/lld">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Badhansen&repo=lld&hide_border=true&bg_color=EFEFD0&title_color=2E4057&icon_color=FF6B35&text_color=2E4057" />
-</a>
-
-<br/><br/>
+<br/>
 
 [![See All Projects](https://img.shields.io/badge/🚀%20Explore%20All%20My%20Work-FF6B35?style=for-the-badge&logoColor=white)](https://github.com/Badhansen?tab=repositories)
 
