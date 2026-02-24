@@ -27,7 +27,7 @@
 
 <table>
 <tr>
-<td width="65%">
+<td width="60%">
 
 Hey there! I'm **Badhan Sen**, a Software Engineer and Full Stack Developer based in **Ireland 🇮🇪**.
 
@@ -40,13 +40,19 @@ I believe great software isn't just about code—it's about creating solutions t
 - 🌱 Building sustainable tech with real-world impact
 
 </td>
-<td width="35%" align="center">
+<td width="40%" align="center">
 
-<img src="https://avatars.githubusercontent.com/u/37157382?v=4" width="180" style="border-radius: 50%;" alt="Badhan Sen"/>
+<img src="https://avatars.githubusercontent.com/u/37157382?v=4" width="150" style="border-radius: 50%;" alt="Badhan Sen"/>
 
-<br/><br/>
+<br/>
 
 **`Software Engineer`** · **`Builder`** · **`Researcher`**
+
+<br/>
+
+<a href="https://github.com/Badhansen"><img src="https://img.shields.io/badge/-Badhansen-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/badhan/"><img src="https://img.shields.io/badge/-badhan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </td>
 </tr>
@@ -54,42 +60,18 @@ I believe great software isn't just about code—it's about creating solutions t
 
 ---
 
-## 🛠️ Technologies I Work With
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,typescript,javascript,go,rust,cpp,java,c&theme=light" alt="Languages" /></a>
-</p>
-
-### AI & Machine Learning
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=light" alt="AI/ML" /></a>
-  <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=000" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=fff" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=fff" alt="OpenAI"/>
-</p>
-
-### Frameworks & Libraries
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,django,flask,express,graphql&theme=light" alt="Frameworks" /></a>
-</p>
-
-### Cloud & DevOps
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,github,gitlab&theme=light" alt="Cloud & DevOps" /></a>
-</p>
-
-### Databases & Tools
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch,mysql,sqlite&theme=light" alt="Databases" /></a>
-</p>
-
-### Other Tools I Love
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,linux,vim,vscode,figma,postman&theme=light" alt="Tools" /></a>
-</p>
+| Category | Technologies |
+|:--------:|:-------------|
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,cs,typescript,cpp&theme=light" height="28" /> |
+| **AI/ML** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=light" height="28" /> |
+| **Frontend & Backend** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,django,graphql&theme=light" height="28" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,github&theme=light" height="28" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=light" height="28" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma&theme=light" height="28" /> |
 
 </div>
 
@@ -181,62 +163,6 @@ I'm passionate about technology that creates **real, measurable impact**. My wor
 <br/>
 
 > *"The measure of a good engineer isn't just what they build—it's the positive change they create."*
-
-</div>
-
----
-
-## 💭 A Bit More Personal
-
-<div align="center">
-
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│                                                                        │
-│   🌅  I start my day with coffee and curiosity                        │
-│   📖  Always learning something new                                    │
-│   🎯  I believe in shipping code that I'm proud of                    │
-│   🤝  Happy to help fellow developers anytime                         │
-│   ☕  Let's grab a virtual coffee and chat!                           │
-│                                                                        │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-### 🎯 What I'm Working Toward
-
-- Building AI systems that genuinely help people in their daily lives
-- Contributing meaningful code to open-source projects
-- Mentoring and supporting fellow developers on their journey
-- Creating tools that make complex technology accessible to everyone
-
-</div>
-
----
-
-## 📬 Let's Connect!
-
-<div align="center">
-
-I'm always excited to meet new people, discuss ideas, or explore potential collaborations.
-**Don't hesitate to reach out—I'd love to hear from you!**
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Badhansen-2E4057?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Badhansen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badhan/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello!-F7C59F?style=for-the-badge&logo=gmail&logoColor=2E4057)](mailto:your.email@example.com)
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=The%20best%20time%20to%20plant%20a%20tree%20was%2020%20years%20ago.%20The%20second%20best%20time%20is%20now.&author=Chinese%20Proverb" alt="Quote"/>
-
-<br/>
-
-### Thanks for stopping by! 🌟
-
-*Feel free to explore my repositories, and if anything catches your eye, let's talk about it!*
 
 </div>
 
